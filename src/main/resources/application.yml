@@ -1,0 +1,5 @@
+app :
+  property1 :
+    value1 : 12
+  property2 :
+    value2 : 21
